@@ -57,8 +57,8 @@ public class Solutions {
             System.out.println(i3 + " is greater than 0.");
         }
 
-        /*switch()
-        case*/
+        /*TODO: switch()
+        TODO: case*/
         
         // for loop
         // The x++ operator adds one to the value of a variable, while x-- would do the opposite
@@ -68,15 +68,15 @@ public class Solutions {
             System.out.println("I = " + i);
         }
 
-        int j = 1;
         // while loop
-        // watch out for infinite loop!
+        // watch out for infinite loops!
+        int j = 1;
         while(j <= 5) {
             System.out.println("J = " + j);
             j++;
         }
 
-        //arrays
+        //TODO: arrays
 
     }
 }
