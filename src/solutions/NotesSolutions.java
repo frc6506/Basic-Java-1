@@ -1,10 +1,12 @@
+package solutions;
+
 /**
  * A JavaDoc Comment
  * @author BobSaidHi
  * @since 20210921
  * @version 1.0
  */
-public class Solutions {
+public class NotesSolutions {
     /** 
      * @param String[] args
      * @since 1.0

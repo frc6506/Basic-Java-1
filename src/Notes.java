@@ -1,6 +1,4 @@
-import javax.annotation.processing.SupportedAnnotationTypes;
-
-public class App {
+public class Notes {
     /** 
      * @param String[] args
      * @since 1.0
