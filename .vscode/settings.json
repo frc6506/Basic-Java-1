@@ -3,5 +3,6 @@
     "java.project.outputPath": "bin",
     "cSpell.words": [
         "fizzbuzz"
-    ]
+    ],
+    "java.server.launchMode": "Standard"
 }
