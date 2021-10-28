@@ -14,6 +14,10 @@ public class NotesSolutions {
     // Annotation to ignore the "unused" category of annotations, such as unused variables.
     @SuppressWarnings("unused")
     public static void main(String[] args) {
+        /**
+         *    Comments and Print Statements
+         */
+        
         // This prints something and adds a line
         System.out.println("Hello, World!");
 
