@@ -2,10 +2,15 @@
 
 ## Welcome to the Programming Team
 
- - Overview
- - Resources
+- Overview
+- Resources
+- Team GitHub:    [github.com/frc6506](https://github.com/frc6506)
+- Team Docs:    [frc6506.github.io/docs/](https://frc6506.github.io/docs/); [github.com/frc6506/docs](https://github.com/frc6506/docs)
 
 ## GitHub Intro I & Prereqs
+
+- See team docs
+- [Presentation](https://docs.google.com/presentation/d/1C4kl43SWPtGlhXZhZaKj87lJZqm-z4JerMFx0MdTp98/edit)
 
 ## Comments & Printing
 
