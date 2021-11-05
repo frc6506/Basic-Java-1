@@ -81,6 +81,12 @@ public class NotesSolutions {
             System.out.println("J = " + j);
             j++;
         }
+        // Example from class that was giving me a headache
+        int num = 0;
+        while(num < 5) {
+            System.out.print("Hello World\n");
+            num++;
+        }
 
         //TODO: arrays
 
