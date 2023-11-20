@@ -1,6 +1,6 @@
 # Basic-Java-1
 
-Notice: This is an archival fork of the lesson template expirament (GitHub Classroom) from Fall 2021.
+Notice: This is an archival fork of our lesson template expirament (GitHub Classroom) from Fall 2021.
 
 ## Welcome to the Programming Team
 
